@@ -18,3 +18,24 @@ There is a need for a used car price prediction system to effectively determine 
 
 ## Quick Demo
 ![Demo](Images/QuickDemo.gif)
+
+## Key Features
+- Language Translator
+- Validation
+
+## Data Visualisation
+- **Gaussian Graph**
+
+`sns.distplot(y_test-predictions)`
+
+![GaussianGraph](Images/GaussianGraph.jpg)
+
+
+- **Scattered Plot**
+
+`plt.scatter(y_test,predictions)`
+
+![Scattered Plot](Images/Clustering.jpg)
+
+
+
