@@ -33,6 +33,7 @@ There is a need for a used car price prediction system to effectively determine 
 
 - **Scattered Plot**
 
+
 `plt.scatter(y_test,predictions)`
 
 ![Scattered Plot](Images/Clustering.jpg)
