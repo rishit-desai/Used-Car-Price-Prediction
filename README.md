@@ -1,4 +1,4 @@
-# Used-Car-Price-Prediction
+# Used Car Price Prediction
 
 <img src="Images/DemoPage1.jpg" width="750" height="400">
 
@@ -41,5 +41,4 @@ There is a need for a used car price prediction system to effectively determine 
 `plt.scatter(y_test,predictions)`
 
 <img src="Images/Clustering.jpg" width="350" height="250">
-
 
