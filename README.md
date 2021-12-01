@@ -1,6 +1,6 @@
 # Used-Car-Price-Prediction
 
-![Page1Image](Images/DemoPage1.jpg)
+<img src="Images/DemoPage1.jpg" width="750" height="400">
 
 ## Introduction
 Due to the increased price of new cars and the incapability of customers to buy new cars due to the lack of funds, used cars sales are on a global increase.
@@ -20,23 +20,26 @@ There is a need for a used car price prediction system to effectively determine 
 ![Demo](Images/QuickDemo.gif)
 
 ## Key Features
-- Language Translator
-- Validation
+- **Language Translator**
+
+![Demo](Images/Language_translateor.gif)
+
+- **Validation**
+
+![Demo](Images/Validation.gif)
 
 ## Data Visualisation
 - **Gaussian Graph**
 
 `sns.distplot(y_test-predictions)`
 
-![GaussianGraph](Images/GaussianGraph.jpg)
-
+<img src="Images/GaussianGraph.jpg" width="350" height="250">
 
 - **Scattered Plot**
 
 
 `plt.scatter(y_test,predictions)`
 
-![Scattered Plot](Images/Clustering.jpg)
-
+<img src="Images/Clustering.jpg" width="350" height="250">
 
 
