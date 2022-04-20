@@ -42,3 +42,4 @@ There is a need for a used car price prediction system to effectively determine 
 
 <img src="Images/Clustering.jpg" width="350" height="250">
 
+Contributors: [@rounaccc][@rishit-desai][@hetvigandhi03]
